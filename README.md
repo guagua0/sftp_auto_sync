@@ -16,6 +16,12 @@ python -m sftp_auto_sync.app.main
 
 或直接双击 `run.bat` / `run_hidden.vbs`
 
+## 界面预览
+
+![界面1](1.jpg)
+![界面2](2.jpg)
+![界面3](3.jpg)
+
 ## 主要功能
 
 - SFTP 服务器管理
