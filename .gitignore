@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+.pytest_cache/
+.codex_tmp_pytest/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+*.tmp
+*.log

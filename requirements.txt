@@ -1,0 +1,8 @@
+paramiko>=4.0,<5
+watchdog>=6.0,<7
+PySide6>=6.8,<7
+keyring>=25.0,<26
+pytest>=8.0,<9
+pyinstaller>=6.0,<7
+# 注意：当前 PyPI 上的 dokan 不是 Windows Dokany 文件系统绑定，
+# 真实盘符挂载应基于 Dokany Runtime/SDK + 项目内 ctypes 适配层实现。
